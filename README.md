@@ -1,6 +1,6 @@
 # wix-atmanyoga-massage-en-concience
 
-This repository contains the site artifacts for the "Massage en Conscience" submenu of wix-atmanyoga-massage-en-concience, a website that offers yoga classes and massage sessions in Etterbeek, Brussels Region, Belgium.
+This repository contains the site artifacts for the "Massage en Conscience" submenu of wix-atmanyoga-massage-en-concience, a website that offers yoga classes and massage sessions in Auderghem, Brussels Region, Belgium.
 
 ## Repository structure
 
